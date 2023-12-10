@@ -66,3 +66,9 @@ Uygulama, basit bir etkileşim mekanizması sağlar ve Swing kullanarak GUI geli
 MyButton1 sınıfı, özelleştirilmiş butonların görsel özelliklerini kişiselleştirmek için kullanılabilir.
 Kullanım talimatları, uygulamayı kullanmak için gerekli adımları içerir ve JDK'nın yüklü olması gibi önkoşulları belirtir.
 Uygulama, temel bir etkileşim mekanizması sunarak Swing kütüphanesini kullanarak GUI geliştirmenin temel prensiplerini gösterir
+
+
+
+https://github.com/utkuozcann/ButtonKontrol/assets/153429918/79c9a386-a7d8-42df-b793-82baebb14cf7
+
+
